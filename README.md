@@ -28,6 +28,18 @@ sourse ./{name_env}/bin/activate
 ```sh
 pip3 install -r requirements.txt
 ```
+Установка Selenium.
+
+```sh
+pip install selenium
+```
+
+Установка webdriver.
+
+```sh
+pip install webdriver_manager 
+```
+
 
 ## Запуск приложения.
 
