@@ -11,7 +11,7 @@ git clone https://github.com/{name_project}
 cd {name_projet}
 ```
 
-### ЯП версия [Python 3.10](https://www.python.org/).
+### ЯП версия [Python 3.12](https://www.python.org/).
 
 Создание виртуального окружения.
 ```sh
